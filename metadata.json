@@ -1,0 +1,6 @@
+{
+  "name": "CarePlus Medical Center",
+  "description": "CarePlus Medical Center is Kenya's premier private hospital, providing world-class and affordable medical care, emergency services, and specialist consultations in Nairobi, Mombasa, Kisumu, Nakuru, Eldoret, Ruiru, and all major cities across Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
